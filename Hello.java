@@ -3,5 +3,6 @@ public class Hello {
     System.out.println("Hello!");
     //the test
     //I edited it
+    //edited from git
   }
 }
